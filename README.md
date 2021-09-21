@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romain Pierucci</h1>
-<h3 align="center">Web developer, Front-end lover and Flutter enthusiast.</h3>
+<h3 align="center">Web developer and Front-end lover</h3>
 
-- 🔭 I’m currently working on [Ultra Violet](https://github.com/JoelleCastelli/UltraViolet_CMS)
-
-- 👯 I’m looking forward for **an apprenticeship for September 2021**
+- 🔭 I’m currently working at Chiro
 
 - 📫 How to reach me **pierucci.romain@gmail.com**
 
