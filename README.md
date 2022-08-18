@@ -1,23 +1,22 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
   
 
-### <div align="center">I'm Romain, a full-time full-stack developer 👨‍💻 Student at ESGI since 2018 🚀</div>  
+### <div align="center">I'm Romain, a full-time full-stack developer 👨‍💻</div>  
   
+<br/>  
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 👨‍💻 I’m currently working at Chiro as frontend developer
+
+- 🎓 Student at ESGI since 2018
   
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning three.js   
   
+- ❓ Ask me about anything related to frontend development and design 
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
+- 👀 Looking for an apprenticeship job for September 2022
+ 
 <br/>  
 
 
@@ -71,7 +70,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/Norudah" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -82,32 +81,3 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
