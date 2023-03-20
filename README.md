@@ -7,15 +7,13 @@
   
 <br/>  
 
-- 👨‍💻 I’m currently working at Chiro as frontend developer
+- 👨‍💻 I’m currently working at SQLI as React.js developer
 
 - 🎓 Student at ESGI since 2018
   
 - 🌱 I’m currently learning three.js   
   
-- ❓ Ask me about anything related to frontend development and design 
-
-- 👀 Looking for an apprenticeship job for September 2022
+- ❓ Ask me about anything related to React development and design 
  
 <br/>  
 
